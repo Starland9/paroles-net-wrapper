@@ -6,14 +6,10 @@ Ce projet permet de récupérer les paroles de chansons de [paroles.net](https:/
 
 Cloner le repo et installer les dépendances avec pip :
 
-    ```shell
-    git clone https://github.com/Starland9/ParolesNet
+    git clone https://github.com/Starland9/paroles-net-wrapper
     pip install -r requirements.txt
-    ```
 
 ## Utilisation
-
-    ```python
 
     from paroles_net import ParolesNet
 
@@ -32,7 +28,6 @@ Cloner le repo et installer les dépendances avec pip :
         song = songs[2]
         print(song)
         print(song.get_lyrics(and_save=True))
-    ```
 
 ## Licence
 
