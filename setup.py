@@ -8,5 +8,5 @@ setup(
     license='MIT',
     author='Starland9',
     author_email='landrysimo99@gmail.com',
-    description='Ce projet permet de récupérer les paroles de chansons de paroles.net.'
+    description='paroles.net wrapper'
 )

@@ -1,3 +1,6 @@
 .venv
 *.pyc
 paroles_net/
+build/
+dist/
+paroles_net_wrapper.egg-info
