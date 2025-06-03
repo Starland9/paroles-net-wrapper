@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='paroles-net-wrapper',
-    version='0.0.1',
+    version='0.0.2',
     packages=[''],
     url='https://github.com/Starland9/paroles-net-wrapper.git',
     license='MIT',
