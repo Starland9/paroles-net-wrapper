@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='paroles-net-wrapper',
-    version='0.0.5',
+    version='0.0.6',
     packages=find_packages(),
     py_modules=['paroles_net', 'utils'],
     install_requires=[
