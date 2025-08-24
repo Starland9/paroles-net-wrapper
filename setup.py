@@ -1,9 +1,14 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='paroles-net-wrapper',
-    version='0.0.2',
-    packages=[''],
+    version='0.0.3',
+    packages=find_packages(),
+    install_requires=[
+        'beautifulsoup4',
+        'requests',
+        'selenium'
+    ],
     url='https://github.com/Starland9/paroles-net-wrapper.git',
     license='MIT',
     author='Starland9',
