@@ -1,5 +1,7 @@
 # 🎤 Paroles.net Wrapper 🎶
 
+[English](README.md) | [Français](README.fr.md)
+
 [![PyPI version](https://img.shields.io/pypi/v/paroles-net-wrapper.svg)](https://pypi.org/project/paroles-net-wrapper/)
 [![Build Status](https://img.shields.io/travis/com/Starland9/paroles-net-wrapper.svg)](https://travis-ci.com/Starland9/paroles-net-wrapper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
